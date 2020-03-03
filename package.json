@@ -1,0 +1,21 @@
+{
+  "name": "tfIdf",
+  "version": "0.1.0",
+  "author": "Maca <user+Maca@algorithmia.com>",
+  "description": "Algorithmia Algorithm - Maca/tfIdf",
+  "main": "tfIdf.js",
+  "bin": {
+    "tfIdf": "./tfIdf.js"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "algorithmia": "0.3.x"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
+
